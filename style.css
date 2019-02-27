@@ -1,0 +1,188 @@
+header {
+    
+    color: #cccccc; 
+    border-bottom-style: solid;
+    border-width: 3px;
+    height: 100px;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 5px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+
+    
+
+    }
+
+h1 {
+    color: teal;
+    font-size: 30px;
+    padding: 10px 10px 10px 30 px;
+    margin: 50px 30px 30px 30px;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+ ul li {
+    display: inline;
+
+}
+
+ul li a {
+    padding: 10px 20px;
+    color: teal;
+    float: right;
+    font-size: 20px;
+    
+}
+
+.Myname {
+    height: 85px;
+    margin: 20px 20px 0px 400px ;
+    width: 300px;
+    text-align: center;
+    list-style: none;
+    box-sizing: border-box ;
+    background-color: teal;
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+
+    }
+    
+    figure {
+        float: left;;
+        padding: 0px 15px 0px 0;
+        margin: 0 0 1em 1em;
+        }
+        
+        .FormInfo {
+            border: solid;
+            color: grey;
+            margin: 10px 80 px 10 px 90px;
+            background-color: #dddddd;
+            font-size: 15px;
+            font-family: Arial;
+        
+            }
+            
+            input, textarea {
+                width: 920px;
+                padding: 10px;
+                text-align: right;
+                }
+
+                .Submit input{
+                    background-color: teal;
+                    color: white;
+                    text-align: center;
+                    height: 40px;
+                    width: 150px;
+                    }
+                    
+                    footer {
+                        background-color: #666666;
+                        text-align: center;
+                        color: white;
+                        border-top-color: #4aaaa5 10px;
+                        height: 60px;
+                        position: relative;
+                        left: 0;
+                        bottom: 0;
+                        width: 100%;
+                    }
+                        
+   
+  .Kari {
+      background-color: white;
+  }
+
+ 
+
+
+  section {
+      background-color: white;
+      width: 960px;
+      height: 500px;
+      float: center;
+      margin: 20px 500px 10px 400px;
+      padding: 150px;;
+      
+  }
+
+
+.Product {
+    box-sizing: content-box;
+    width: 30px;
+    height: 0px;
+    background-color: brown;
+    float: left;
+    border: solid;
+    border-color: black;
+    padding: 80px;
+    position: relative;
+    margin: 1px 100px 10px 0px;
+
+}
+.Website {
+    box-sizing: content-box;
+    width: 30px;
+    height: 0px;
+    background-color: brown;
+    float: left;
+    border: solid;
+    border-color: black;
+    padding: 80px;
+    position: relative;
+    margin: 1px 200px 10px 0px;
+
+}
+
+.App {
+    box-sizing: content-box;
+    width: 30px;
+    height: 0px;
+    background-color: brown;
+    float: left;
+    border: solid;
+    border-color: black;
+    padding: 80px;
+    position: relative;
+    margin: 1px 100px 10px 0px;
+}
+
+.Resume {
+    box-sizing: content-box;
+    width: 30px;
+    height: 0px;
+    background-color: brown;
+    float: left;
+    border: solid;
+    border-color: black;
+    padding: 80px;
+    position: relative;
+    margin: 1px 200px 10px 0px;
+}
+    
+.Profile {
+    box-sizing: content-box;
+    width: 30px;
+    height: 0px;
+    background-color: brown;
+    float: left;
+    border: solid;
+    border-color: black;
+    padding: 80px;
+    position: relative;
+    margin: 1px 200px 10px 0px;
+}
+
+.Fix {
+    size: portraite;
+    display: inline-block;
+
+}
