@@ -2,14 +2,15 @@ header {
     
     color: #cccccc; 
     border-bottom-style: solid;
-    border-width: 3px;
-    height: 100px;
+    border-width: 20px;
+    height: 123px;
     width: 100%;
     background-color: #ffffff;
     padding: 5px;
-    position: relative;
     bottom: 0;
-    left: 0;
+    left: 200;
+    margin: 0 400px 0 0px;
+
 
     
 
@@ -33,7 +34,7 @@ ul {
 }
 
 ul li a {
-    padding: 10px 20px;
+    padding: 50px 20px;
     color: teal;
     float: right;
     font-size: 20px;
@@ -41,16 +42,16 @@ ul li a {
 }
 
 .Myname {
-    height: 85px;
-    margin: 20px 20px 0px 400px ;
-    width: 300px;
+    height: 105px;
+    margin: 20px 150000px 100px 400px ;
+    width: 400px;
     text-align: center;
     list-style: none;
     box-sizing: border-box ;
     background-color: teal;
     color: white;
     font-size: 30px;
-    padding: 15px;
+    padding: 35px;
 
     }
     
@@ -63,10 +64,12 @@ ul li a {
         .FormInfo {
             border: solid;
             color: grey;
-            margin: 10px 80 px 10 px 90px;
+            margin: 100px 80 px 10 px 90px;
             background-color: #dddddd;
             font-size: 15px;
             font-family: Arial;
+            
+            
         
             }
             
@@ -107,82 +110,13 @@ ul li a {
   section {
       background-color: white;
       width: 960px;
-      height: 500px;
+      height: 800px;
       float: center;
-      margin: 20px 500px 10px 400px;
-      padding: 150px;;
+      margin: 0px 500px 10px 400px;
+      padding: 30px;
       
   }
 
-
-.Product {
-    box-sizing: content-box;
-    width: 30px;
-    height: 0px;
-    background-color: brown;
-    float: left;
-    border: solid;
-    border-color: black;
-    padding: 80px;
-    position: relative;
-    margin: 1px 100px 10px 0px;
-
-}
-.Website {
-    box-sizing: content-box;
-    width: 30px;
-    height: 0px;
-    background-color: brown;
-    float: left;
-    border: solid;
-    border-color: black;
-    padding: 80px;
-    position: relative;
-    margin: 1px 200px 10px 0px;
-
-}
-
-.App {
-    box-sizing: content-box;
-    width: 30px;
-    height: 0px;
-    background-color: brown;
-    float: left;
-    border: solid;
-    border-color: black;
-    padding: 80px;
-    position: relative;
-    margin: 1px 100px 10px 0px;
-}
-
-.Resume {
-    box-sizing: content-box;
-    width: 30px;
-    height: 0px;
-    background-color: brown;
-    float: left;
-    border: solid;
-    border-color: black;
-    padding: 80px;
-    position: relative;
-    margin: 1px 200px 10px 0px;
-}
-    
-.Profile {
-    box-sizing: content-box;
-    width: 30px;
-    height: 0px;
-    background-color: brown;
-    float: left;
-    border: solid;
-    border-color: black;
-    padding: 80px;
-    position: relative;
-    margin: 1px 200px 10px 0px;
-}
-
-.Fix {
-    size: portraite;
-    display: inline-block;
-
+body {
+    margin: 20px 500px 20px 20px;
 }
